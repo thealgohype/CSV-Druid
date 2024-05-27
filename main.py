@@ -13,6 +13,7 @@ from langchain_core.runnables import RunnablePassthrough
 from pandasai import SmartDataframe
 import pandas as pd
 
+st.set_page_config(page_title="CSV Druid", page_icon="images/csv-druid-favicon.png", layout="wide")
 st.sidebar.title("Chat Config")
 model = st.sidebar.selectbox("Select the model", [
     "gpt-3.5-turbo", "gpt-4", "claude-sonnet", "claude-opus", "google-gemini"
