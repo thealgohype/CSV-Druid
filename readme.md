@@ -1,5 +1,5 @@
 # CSV Druid: The Ultimate CSV Analyzer
-![CSV-Druid : Analysis and Insights from Data](https://replit.com/@algohype/Resear#images/CSV%20Druid.png)
+![CSV-Druid : Analysis and Insights from Data](https://github.com/thealgohype/CSV-Druid/blob/main/images/CSV%20Druid%20Updated.png)
 
 
 Welcome to **CSV Druid**, a powerful and user-friendly CSV analyzer that leverages the capabilities of PandasAI for comprehensive data analysis. This application is built using Streamlit for an intuitive and interactive user interface.
